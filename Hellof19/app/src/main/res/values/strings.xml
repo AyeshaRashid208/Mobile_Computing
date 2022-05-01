@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hellof19</string>
+    <string name="user_hint">Enter Your Full Name</string>
+    <string name="btn_hint">send</string>
+</resources>
